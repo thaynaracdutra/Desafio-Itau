@@ -25,7 +25,7 @@ Para inicializar a página de testes utilize o comando
 ```
 npm run cypress:open
 ```
-## ↔️ Localidades os Desafios
+## ↔️ Localidade dos Desafios
 Os dois cenários de teste escritos em BDD estão localizado em:
 ```
 src/como-criar-conta-corrente.feature
