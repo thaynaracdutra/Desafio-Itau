@@ -25,6 +25,6 @@ Cenário: Acesso a informações de como abrir a conta corrente no Itaú e confi
     E clico em 'para você'
     E clico em 'conta-corrente'
     Então a url da página atual deve ser 'www.itau.com.br/contas/conta-corrente'
-    Então o texto 'Abra sua uma Conta Corrente' deve estar visivel'
+    Então o texto 'Abra uma Conta Corrente' deve estar visivel
 
 
